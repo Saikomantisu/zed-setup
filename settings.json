@@ -1,0 +1,26 @@
+{
+  "icon_theme": "Warm Charmed Icons",
+  "theme": "Aura Dark",
+  "theme_overrides": {
+    "Aura Dark": {
+      "border.variant": "#15141C",
+      "border": "#15141C",
+      "title_bar.background": "#15141C",
+      "panel.background": "#15141C",
+      "panel.focused_border": "#4E466E",
+      "players": [
+        {
+          "cursor": "#BD9DFF",
+        },
+      ],
+      "syntax": {
+        "comment": {
+          "font_style": "italic",
+        },
+        "comment.doc": {
+          "font_style": "italic",
+        },
+      },
+    },
+  },
+}
