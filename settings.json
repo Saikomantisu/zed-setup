@@ -62,4 +62,23 @@
   "file_finder": {
     "modal_max_width": "large",
   },
+  "scrollbar": {
+    "show": "never",
+  },
+  "gutter": {
+    "min_line_number_digits": 0,
+    "folds": false,
+    "runnables": false,
+  },
+  "indent_guides": {
+    "enabled": false,
+  },
+  "ui_font_family": "Dank Mono",
+  "ui_font_size": 20,
+  "buffer_font_family": "Dank Mono",
+  "buffer_font_size": 20,
+  "buffer_line_height": {
+    "custom": 2,
+  },
+  "agent_buffer_font_size": 20,
 }
