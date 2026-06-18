@@ -17,7 +17,6 @@
   "theme": "Aura Dark",
   "theme_overrides": {
     "Aura Dark": {
-      "editor.document_highlight.read_background": "#00000000",
       "editor.document_highlight.write_background": "#00000000",
       "border.variant": "#15141C",
       "border": "#15141C",
