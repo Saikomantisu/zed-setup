@@ -1,17 +1,18 @@
 {
+  "cli_default_open_behavior": "existing_window",
   "edit_predictions": {
-    "mode": "subtle"
+    "mode": "subtle",
   },
   "collaboration_panel": {
-    "dock": "right"
+    "dock": "right",
   },
   "agent": {
     "dock": "left",
     "favorite_models": [],
-    "model_parameters": []
+    "model_parameters": [],
   },
   "git_panel": {
-    "dock": "right"
+    "dock": "right",
   },
   "icon_theme": "Warm Charmed Icons",
   "theme": "Aura Dark",
@@ -76,8 +77,8 @@
   "indent_guides": {
     "enabled": false,
   },
-  "ui_font_family": "JetBrainsMonoNL Nerd Font Mono",
-  "buffer_font_family": "JetBrainsMonoNL Nerd Font Mono",
+  "ui_font_family": "Dank Mono",
+  "buffer_font_family": "Dank Mono",
   "buffer_line_height": {
     "custom": 2,
   },
